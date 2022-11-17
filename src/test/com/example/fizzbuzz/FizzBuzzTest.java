@@ -1,4 +1,4 @@
-package com.example.fizzBuzz;
+package com.example.fizzbuzz;
 
 import org.junit.Assert;
 import org.junit.Test;

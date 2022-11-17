@@ -1,4 +1,4 @@
-package com.example.fizzBuzz;
+package com.example.fizzbuzz;
 
 public class FizzBuzz {
     public static String calculate(int number) {
