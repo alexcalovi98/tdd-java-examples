@@ -18,5 +18,7 @@
         <SOURCES />
       </library>
     </orderEntry>
+    <orderEntry type="library" name="mockito.core" level="application" />
+    <orderEntry type="library" name="mockito.inline" level="application" />
   </component>
 </module>
