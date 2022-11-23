@@ -19,3 +19,4 @@ In this project you can find:
 - Kata 1 – FizzBuzz
 - Kata 5: Point of sale kata
 - Kata 6: Banking kata
+- Gas Station Simulation
